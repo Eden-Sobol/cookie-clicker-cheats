@@ -1,1 +1,1 @@
-Game.cookies += Number(prompt("How many cookies to add?"))
+Game.cookies += Number(prompt("How many cookies to subtract?"))
