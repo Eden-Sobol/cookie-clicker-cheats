@@ -1,1 +1,1 @@
-cps = prompt("How many clicks per second?", "");Game.computedMouseCps = Number(cps)
+Game.computedMouseCps = Number(prompt("How many clicks per second?"))
