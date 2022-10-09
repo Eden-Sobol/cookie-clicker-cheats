@@ -1,1 +1,1 @@
-cookies = prompt("How many cookies to add?", "");cookies2 = Number(cookies);Game.cookies /= cookies2
+cookies = prompt("How many cookies to divide by?", "");cookies2 = Number(cookies);Game.cookies /= cookies2
