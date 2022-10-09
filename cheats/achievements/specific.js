@@ -1,1 +1,1 @@
-achievement = prompt("What achievement to add?");Game.Win(achievement)
+Game.Win(prompt("What achievement to add?"))
